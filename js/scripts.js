@@ -20,7 +20,7 @@ $(function() {
 });
 
 $(function() {
-$("#loginButton").click(function(){
-    $("#loginModal").modal("toggle");
-});
+    $("#loginButton").click(function(){
+        $("#loginModal").modal("toggle");
+    });
 });
